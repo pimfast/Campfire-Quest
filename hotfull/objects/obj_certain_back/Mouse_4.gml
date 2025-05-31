@@ -1,0 +1,7 @@
+/// @desc
+
+instance_destroy(obj_certain_back)
+instance_destroy(obj_certain_delete)
+instance_destroy(obj_certain_newgame)
+instance_destroy(obj_newgamedarkoverlay)
+instance_destroy(obj_deleteprogressdarkoverlay)

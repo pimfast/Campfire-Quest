@@ -1,6 +1,6 @@
 {
-  "resourceType": "GMOperaGXOptions",
-  "resourceVersion": "1.1",
+  "$GMOperaGXOptions": "",
+  "%Name": "operagx",
   "name": "operagx",
   "option_operagx_display_cursor": true,
   "option_operagx_editUrl": "https://create.gx.games/game/e87cc957-52e4-499e-b1a1-b03180b5301c/edit",
@@ -24,4 +24,6 @@
   "option_operagx_team_name": "(28ccb775-edfc-4c9c-855f-84a86d0feb9e) studio",
   "option_operagx_texture_page": "2048x2048",
   "option_operagx_version": "0.0.0.0",
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "2.0",
 }
